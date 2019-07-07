@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53722657488",
+    "firebase_url": "https://firstchatt-737ba.firebaseio.com",
+    "project_id": "firstchatt-737ba",
+    "storage_bucket": "firstchatt-737ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53722657488:android:7fdaaef44dca965b",
+        "android_client_info": {
+          "package_name": "com.gunyeupkim.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53722657488-al36ojlt30v8rktulkg4cjjhtfmp743n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PvZiW8-UUf3E0rozF7QzkwEv2RDE6t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53722657488-al36ojlt30v8rktulkg4cjjhtfmp743n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
